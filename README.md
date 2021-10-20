@@ -44,7 +44,7 @@ The interface itself should feel like writing with a good pen on good paper.  Th
 
 I propose creating an integrated development environment for Urbit code-named Ockham.  I attach an evocative mockup of what Ockham could look like modulo a designer's eye.  While I do not envision Ockham as being written in Hoon or based in the browser, it should be a cross-platform indispensable tool for the Urbit developer.
 
-![](./img/ockham-main.png)
+![](./ockham-main.png)
 
 The optimal developer experience feels like working with index cards and paper on a desk.  A modestly-composable interface will allow disposition of necessary items and tools without escaping into the horror of MS Ribbons.  Backend interfaces will directly connect to a running ship and permit direct interactions with Clay and Gall agents.  Urbit has sound reasons to use cores, doors, etc.:  exploit these features to make development shine.
 
