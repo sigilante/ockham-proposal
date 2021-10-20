@@ -28,7 +28,7 @@ Again and again, the best user experiences are not fully configurable, but opini
 
 For instance, the gold standard for Python code linting is not the [`flake8`](https://pypi.org/project/flake8/) tool with its configurable options.  The gold standard for Python is [_Black_](https://pypi.org/project/black/).  Black is a fully opinionated tool for code linting that offers no options.  You either accept its superior formatting or you go your own way.
 
-There needs to be One Right Way to develop on Mars.
+There needs to be One Right Way to develop on Mars.  Not for code style, but for tooling:  one clearly superior set of tooling and integrations.
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/13644134/original_266dea1c5f5e0d89f5e44d07e02cb764.png?1634750938?bc=0)
 
