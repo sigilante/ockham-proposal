@@ -4,7 +4,7 @@
 
 Urbit has clean minimalist aesthetics for the end user, as well as a solid visual reputation among its casual acquaintances.  The developer experience, however, is ad hoc and cobbled together from disparate Unix tools by each new developer.
 
-In short, to run Urbit feels like Apple while to code Urbit feels like Linux.  (This is an sensory judgment, not about the code details.)  **How do we upgrade the developer experience to make it feel sexy to program on Mars?**
+In short, to run Urbit feels like Apple while to code Urbit feels like Linux.  (This is a sensory judgment, not about the code details.)  **How do we upgrade the developer experience to make it feel sexy to program on Mars?**
 
 The goal must be to offer a space-age developer experience.  It needs to feel good to write code for Urbit.  Riffing on Jonathan Blow's ending talk at Assembly 2021, quality of life is king.
 
